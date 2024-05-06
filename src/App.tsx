@@ -1,10 +1,10 @@
-// import React from "react";
-// import {
-//   FaFacebookF,
-//   FaTwitter,
-//   FaLinkedinIn,
-//   FaInstagram,
-// } from "react-icons/fa";
+
+import {
+  FaFacebookF,
+  FaTwitter,
+  FaLinkedinIn,
+  FaInstagram,
+} from "react-icons/fa";
 
 function App() {
   return (
